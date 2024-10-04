@@ -15,6 +15,7 @@
       "to": "#07C983"
     }
   },
+  "layout": "sidenav",
   "topbarLinks": [
     {
       "name": "Support",
@@ -33,54 +34,45 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Schedule an Intro Call",
+      "icon": "rocket-launch",
+      "url": "https://growthxlabs.com/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Join Upcoming Workshop",
+      "icon": "user-robot",
+      "url": "https://lu.ma/ai-seo-workshop?coupon=AIGROWTH50"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "get-started/start-here",
-        "get-started/is-for-me",
-        "get-started/pricing",
-        "get-started/presentations"
+        "get-started/start-here"
       ]
     },
     {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+      "group": "Working with GrowthX",
+      "pages": [        
+        "working-with/is-for-me",
+        "working-with/pricing",
+        "working-with/presentations"
       ]
     },
     {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
+      "group": "Work With Us",
+      "pages": [        
+        "work-with-us/faqs",
+        "work-with-us/kickoff-template",
+        "work-with-us/client-checklist"
       ]
     },
     {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+      "group": "Free Tools",
+      "pages": [        
+        "free-tools/keyword",
+        "free-tools/seo-analyzer",
+        "free-tools/ai-character-rewriter"
       ]
     }
   ],
