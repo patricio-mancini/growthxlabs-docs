@@ -52,9 +52,10 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "get-started/start-here",
+        "get-started/is-for-me",
+        "get-started/pricing",
+        "get-started/presentations"
       ]
     },
     {
