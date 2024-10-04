@@ -1,3 +1,8 @@
+a[href="https://mintlify.com?utm_campaign=poweredBy&utm_medium=docs&utm_source=undefined"]
+{
+  display: none;
+}
+
 @media only screen and (min-width: 600px) {
   #table-of-contents {
     max-width: 200px !important;

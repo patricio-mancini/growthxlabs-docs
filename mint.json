@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "GrowthX Labs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -15,21 +15,24 @@
       "to": "#07C983"
     }
   },
-  "layout": "sidenav",
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Start here",
+      "url": "/get-started/start-here"
+    },
+    {
+      "name": "Is GrowthX for me?",
+      "url": "/working-with/is-for-me"
+    },
+    {
+      "name": "Pricing",
+      "url": "/working-with/pricing"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Documentation",
+      "url": "/"
     }
   ],
   "anchors": [
@@ -75,10 +78,5 @@
         "free-tools/ai-character-rewriter"
       ]
     }
-  ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  ]
 }
